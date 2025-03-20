@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Todo App</string>
+    <string name="delete_alll">Delete all</string>
+    <string name="complete_task">Complete\n</string>
+  <string name="pending_task">Pending\n</string>
+    <string name="all_Task_Deleted">All task Deleted</string>
+  <string name="task_deleted">Task deleted\n</string>
+  <string name="task_updated">Task Updated\n</string>
+    <string name="summary_info">You have $s pendding task</string>
+    <string name="task">task\n</string>
+  <string name="done">Completado</string>
+    <string name="category">Category</string>
+  <string name="task_name">Task Name</string>
+    <string name="task_description">"Task Description "</string>
+  <string name="save">Save</string>
+    <string name="task_created">Task created</string>
+    <string name="no_tasks">dont\n</string>
+</resources>
